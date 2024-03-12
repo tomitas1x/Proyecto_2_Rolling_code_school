@@ -1,0 +1,165 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "asd",
+      "Autor": "asd",
+      "album": "asd",
+      "duracion": "",
+      "category": "asd",
+      "featured": false,
+      "image": "./assets/imagenZar.jpg"
+    },
+    {
+      "id": 2,
+      "name": "La declaracion",
+      "Autor": "El Zar",
+      "album": "Pura Casualidad",
+      "duracion": "",
+      "category": "Rock",
+      "featured": false,
+      "image": "./assets/imagenZar.jpg"
+    },
+    {
+      "id": 3,
+      "name": "A donde quieras",
+      "Autor": "El Zar",
+      "album": "Pura Casualidad",
+      "duracion": "",
+      "category": "Rock",
+      "featured": false,
+      "image": "./assets/imagenZar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Pelicula",
+      "Autor": "El Zar",
+      "album": "Pura Casualidad",
+      "duracion": "",
+      "category": "Rock",
+      "featured": false,
+      "image": "./assets/imagenZar.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Traccion a Sangre",
+      "Autor": "Gustavo Cerati",
+      "album": "Fuerza Natural",
+      "duracion": "",
+      "category": "Rock",
+      "featured": false,
+      "image": "./assets/FuerzaNatural.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Traccion a Sangre",
+      "Autor": "Gustavo Cerati",
+      "album": "Fuerza Natural",
+      "duracion": "",
+      "category": "Rock",
+      "featured": false,
+      "image": "./assets/FuerzaNatural.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Amor Sin Rodeos",
+      "Autor": "Gustavo Cerati",
+      "album": "Fuerza Natural",
+      "category": "Rock",
+      "featured": false,
+      "image": "./assets/FuerzaNatural.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Fuerza Natural",
+      "Autor": "Gustavo Cerati",
+      "album": "Fuerza Natural",
+      "duracion": "",
+      "category": "Rock",
+      "featured": false,
+      "image": "./assets/FuerzaNatural.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Hotel California",
+      "Autor": "Ke Personajes",
+      "album": "Inicios",
+      "duracion": "",
+      "category": "Cumbia",
+      "featured": false,
+      "image": "./assets/keper.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Escapate Connigo",
+      "Autor": "Ke Personajes",
+      "album": "Inicios",
+      "duracion": "",
+      "category": "Cumbia",
+      "featured": false,
+      "image": "./assets/keper.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Me Rehuso",
+      "Autor": "Ke Personajes",
+      "album": "Inicios",
+      "duracion": "",
+      "category": "Cumbia",
+      "featured": false,
+      "image": "./assets/keper.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Como Estas?",
+      "Autor": "Ke Personajes",
+      "album": "Inicios",
+      "duracion": "",
+      "category": "Cumbia",
+      "featured": false,
+      "image": "./assets/keper.jpg"
+    }
+  ],
+  "users": [
+    {
+      "name": "federico corbalan",
+      "email": "fede@gmail.com",
+      "userName": "123456",
+      "password": "asd",
+      "role": "admin",
+      "id": 1
+    },
+    {
+      "name": "rafael ortega",
+      "email": "rafa@gmail.com",
+      "userName": "rafael",
+      "password": "rafael",
+      "role": "client",
+      "id": 2
+    },
+    {
+      "name": "fede",
+      "email": "fede",
+      "userName": "fede",
+      "password": "fede",
+      "role": "client",
+      "id": 3
+    },
+    {
+      "name": "fede",
+      "email": "fede",
+      "userName": "fede",
+      "password": "fede",
+      "role": "client",
+      "id": 4
+    },
+    {
+      "name": "asd",
+      "email": "asd",
+      "userName": "asd",
+      "password": "asd",
+      "role": "client",
+      "id": 5
+    }
+  ]
+}

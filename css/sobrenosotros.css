@@ -1,0 +1,13 @@
+body{
+    background-image: url(/assets/pexels-nicholas-derio-palacios-14925312.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    
+}
+.aboutUs{
+    width:140px ; 
+    height:140px ;
+    border-radius: 50%;
+}
